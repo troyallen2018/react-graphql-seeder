@@ -1,4 +1,4 @@
-<h2 align="center">Hacker News Clone React/GraphQL</h2>
+﻿<h2 align="center">Hacker News Clone React/GraphQL</h2>
 
 <p align="center">
 <a href="https://github.com/clintonwoo/hackernews-react-graphql/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/clintonwoo/hackernews-react-graphql.svg?style=social&label=Star"></a> 
@@ -136,6 +136,3 @@ NextJS lets us make a powerful static website but you need to consider if you ne
 
 ## Contributing
 Pull requests are welcome. File an issue for ideas, conversation or feedback.
-
-### Community
-After you ★Star this project, follow [@ClintonDAnnolfo](https://twitter.com/clintondannolfo) on Twitter.
